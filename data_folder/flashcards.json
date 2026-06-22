@@ -1,0 +1,23 @@
+[
+    {
+        "word": "father-in-law",
+        "explanation": "Your father-in-law is the father of your husband or wife.",
+        "example": "My father-in-law is a great cook and always prepares a feast when we visit.",
+        "memory_trick": "Think of 'in-law' as 'added by law' (marriage), so your father-in-law is the father added to your family by marriage.",
+        "quiz_question": "If your spouse's mother is your mother-in-law, who is your spouse's father?"
+    },
+    {
+        "word": "python",
+        "explanation": "1. A large, non-venomous constricting snake found in tropical and subtropical regions. 2. A popular, high-level, general-purpose programming language known for its readability and versatility.",
+        "example": "The programmer debugged the Python script, while the naturalist observed the python coiling around a branch.",
+        "memory_trick": "Think of a 'PY'thon snake; the 'PY' can remind you of the 'PY'thon programming language, both known for their power and reach.",
+        "quiz_question": "What are two distinct meanings of the word 'python'?"
+    },
+    {
+        "word": "movie",
+        "explanation": "A series of moving images shown on a screen, usually with sound, to tell a story or show real events.",
+        "example": "We watched a really exciting action movie last night.",
+        "memory_trick": "Think of 'move-ie' as in 'moving pictures' which is what a movie is.",
+        "quiz_question": "What is another common word for 'movie' that starts with the letter 'f'?"
+    }
+]
