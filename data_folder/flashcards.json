@@ -19,5 +19,33 @@
         "example": "We watched a really exciting action movie last night.",
         "memory_trick": "Think of 'move-ie' as in 'moving pictures' which is what a movie is.",
         "quiz_question": "What is another common word for 'movie' that starts with the letter 'f'?"
+    },
+    {
+        "word": "flashcard",
+        "explanation": "A small card, typically with a word or picture on one side and its definition or a related fact on the other, used as an aid to learning or memorization.",
+        "example": "I used a stack of flashcards to study for my vocabulary test, writing the English word on one side and its Spanish translation on the other.",
+        "memory_trick": "Think of 'flash' like a quick look, and 'card' as a piece of paper. You quickly look at the card to remember information.",
+        "quiz_question": "What is the primary purpose of a flashcard?"
+    },
+    {
+        "word": "memories",
+        "explanation": "Past experiences, events, or information that a person can recall from their mind; the faculty by which the mind stores and remembers information.",
+        "example": "Looking through old photos brought back many happy memories of my childhood.",
+        "memory_trick": "Think of 'memo' at the start of 'memories'. A memo is a note to remember something, and memories are things you remember.",
+        "quiz_question": "What is the primary function of memories?"
+    },
+    {
+        "word": "must",
+        "explanation": "Expresses strong obligation, necessity, or high probability/certainty.",
+        "example": "You must wear a helmet when riding a bicycle.",
+        "memory_trick": "Think of a 'MUST-do list' - things that are absolutely essential or required.",
+        "quiz_question": "Which sentence correctly uses 'must' to show strong obligation? A) You must be tired. B) You must go to bed early. C) You must be careful."
+    },
+    {
+        "word": "jealousy",
+        "explanation": "A feeling of resentment or bitterness towards someone because they have something you want, or a fear that someone you love might prefer someone else.",
+        "example": "His jealousy flared when he saw his ex-girlfriend laughing with another man.",
+        "memory_trick": "Jealousy is like a 'Jail' you build for yourself, trapping your mind with envy and resentment.",
+        "quiz_question": "Which emotion is characterized by a desire for what someone else has, often accompanied by resentment?"
     }
 ]
