@@ -1,65 +1,16 @@
 [
     {
-        "word": "father-in-law",
-        "explanation": "Your father-in-law is the father of your husband or wife.",
-        "example": "My father-in-law is a great cook and always prepares a feast when we visit.",
-        "memory_trick": "Think of 'in-law' as 'added by law' (marriage), so your father-in-law is the father added to your family by marriage.",
-        "quiz_question": "If your spouse's mother is your mother-in-law, who is your spouse's father?"
+        "word": "movie",
+        "explanation": "A movie is a story told through moving pictures, usually shown in a cinema or on a screen.",
+        "example": "We are going to watch a new action movie tonight.",
+        "memory_trick": "Think of 'moving' pictures.  Movies are literally 'moving' pictures that tell a story.",
+        "quiz_question": "What do you call a form of entertainment that tells a story using moving pictures and sound?"
     },
     {
         "word": "python",
-        "explanation": "1. A large, non-venomous constricting snake found in tropical and subtropical regions. 2. A popular, high-level, general-purpose programming language known for its readability and versatility.",
-        "example": "The programmer debugged the Python script, while the naturalist observed the python coiling around a branch.",
-        "memory_trick": "Think of a 'PY'thon snake; the 'PY' can remind you of the 'PY'thon programming language, both known for their power and reach.",
-        "quiz_question": "What are two distinct meanings of the word 'python'?"
-    },
-    {
-        "word": "movie",
-        "explanation": "A series of moving images shown on a screen, usually with sound, to tell a story or show real events.",
-        "example": "We watched a really exciting action movie last night.",
-        "memory_trick": "Think of 'move-ie' as in 'moving pictures' which is what a movie is.",
-        "quiz_question": "What is another common word for 'movie' that starts with the letter 'f'?"
-    },
-    {
-        "word": "flashcard",
-        "explanation": "A small card, typically with a word or picture on one side and its definition or a related fact on the other, used as an aid to learning or memorization.",
-        "example": "I used a stack of flashcards to study for my vocabulary test, writing the English word on one side and its Spanish translation on the other.",
-        "memory_trick": "Think of 'flash' like a quick look, and 'card' as a piece of paper. You quickly look at the card to remember information.",
-        "quiz_question": "What is the primary purpose of a flashcard?"
-    },
-    {
-        "word": "memories",
-        "explanation": "Past experiences, events, or information that a person can recall from their mind; the faculty by which the mind stores and remembers information.",
-        "example": "Looking through old photos brought back many happy memories of my childhood.",
-        "memory_trick": "Think of 'memo' at the start of 'memories'. A memo is a note to remember something, and memories are things you remember.",
-        "quiz_question": "What is the primary function of memories?"
-    },
-    {
-        "word": "must",
-        "explanation": "Expresses strong obligation, necessity, or high probability/certainty.",
-        "example": "You must wear a helmet when riding a bicycle.",
-        "memory_trick": "Think of a 'MUST-do list' - things that are absolutely essential or required.",
-        "quiz_question": "Which sentence correctly uses 'must' to show strong obligation? A) You must be tired. B) You must go to bed early. C) You must be careful."
-    },
-    {
-        "word": "jealousy",
-        "explanation": "A feeling of resentment or bitterness towards someone because they have something you want, or a fear that someone you love might prefer someone else.",
-        "example": "His jealousy flared when he saw his ex-girlfriend laughing with another man.",
-        "memory_trick": "Jealousy is like a 'Jail' you build for yourself, trapping your mind with envy and resentment.",
-        "quiz_question": "Which emotion is characterized by a desire for what someone else has, often accompanied by resentment?"
-    },
-    {
-        "word": "miracle",
-        "explanation": "An extraordinary and welcome event that is not explicable by natural or scientific laws and is therefore attributed to a divine agency.",
-        "example": "Against all odds, the tiny plant grew through the concrete, a small miracle of nature's resilience.",
-        "memory_trick": "Think 'MIRACLE makes me MARVEL!' - It's something so amazing you marvel at it.",
-        "quiz_question": "What word would you use to describe a highly improbable and positive event, often seen as divine intervention?"
-    },
-    {
-        "word": "biscuit",
-        "explanation": "A small baked good. In British English, it typically refers to a sweet, often crunchy item similar to an American cookie. In American English, it refers to a soft, savory, leavened quick bread, often served with meals.",
-        "example": "She dunked her chocolate chip biscuit into her tea, a common habit in the UK, whereas in the US, biscuits are often served with gravy for breakfast.",
-        "memory_trick": "Remember 'bi-scuit' by thinking of 'bi' meaning 'two' and 'cuit' like 'cooked' \u2013 historically, biscuits were often twice-baked for durability.",
-        "quiz_question": "In which major English dialect is a 'biscuit' typically a sweet item, and in which is it a savory bread?"
+        "explanation": "A python is a very large snake that coils its body around its prey to suffocate it, rather than using venom.",
+        "example": "The zoologist carefully observed the massive python as it slithered through the jungle undergrowth.",
+        "memory_trick": "Imagine a 'pyramid' of food the snake wants to coil around and squeeze. The 'py-thon' sounds a bit like 'pyramid' where it eats everything around it.",
+        "quiz_question": "True or False: Pythons kill their prey by injecting venom."
     }
 ]

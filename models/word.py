@@ -79,7 +79,7 @@ class Word:
 
     # Converts Dictionary to Object; 'from_dict()' Function
     @classmethod
-    def from_dict(cls, data: dict) -> Word:
+    def from_dict(cls, data: dict):
 
         return cls(
             word=data["word"], 
