@@ -35,6 +35,9 @@ class DictionaryClient:
 
             data = response.json()
 
+            if not data:
+                raise ValueError(f"Word: '{word}' not found.\n")
+
             entry = data[0]
 
             word_text = entry['word']

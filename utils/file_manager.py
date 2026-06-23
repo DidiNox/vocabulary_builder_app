@@ -89,7 +89,7 @@ class FileManager:
                     indent=4
                 )
 
-                print(f"New word saved successfully.\n")
+                print(f"New word: {new_word} saved successfully.\n")
         
         except OSError as e:
             print(f"Could not save the word: {e}.\n")

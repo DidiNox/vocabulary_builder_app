@@ -1,5 +1,4 @@
 from dotenv import load_dotenv
-from pathlib import Path
 import os
 import google.generativeai as genai
 import json
@@ -30,7 +29,7 @@ class GeminiClient:
         
         # Validation
         if not isinstance(word, str):
-            raise TypeError(f"Word must be a string.\n")
+            raise TypeError(f"Word: {word} must be a string.\n")
         
         if not word.strip():
             raise ValueError(f"Word cannot be empty.\n")
